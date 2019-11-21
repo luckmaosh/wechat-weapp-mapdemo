@@ -1,6 +1,7 @@
 #map {
   padding: 40rpx;
 }
-.text{
+
+.text {
   background-color: #eee;
 }
